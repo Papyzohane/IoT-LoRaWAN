@@ -1,4 +1,5 @@
 🛰️ Surveillance Qualité de l'Air - SAE 3.01 (IoT & LoRaWAN)
+
 📋 Présentation du Projet
 
 Ce projet consiste en la conception et le déploiement d'une chaîne IoT complète pour la surveillance environnementale. L'objectif est de mesurer en temps réel le taux de CO2, la température et l'humidité, puis de transmettre ces données via un réseau basse consommation (LPWAN) pour les rendre accessibles sur une interface web publique.  
